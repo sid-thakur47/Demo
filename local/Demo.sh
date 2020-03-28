@@ -3,4 +3,7 @@ echo Hello GitHub
 echo hello
 echo
 echo Sucess
-echo changes
+
+echo Command 123
+ddd 123
+echo changed remotely
