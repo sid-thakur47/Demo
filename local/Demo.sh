@@ -5,3 +5,4 @@ echo
 echo Sucess
 
 echo feature branch
+echo Changes in remote
