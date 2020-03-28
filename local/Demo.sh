@@ -4,4 +4,4 @@ echo hello
 echo
 echo Sucess
 echo Command 123
-ddd
+ddd 123
